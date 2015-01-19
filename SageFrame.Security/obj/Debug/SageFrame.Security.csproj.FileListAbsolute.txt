@@ -1,0 +1,6 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\bin\Debug\SageFrame.Security.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\bin\Debug\SageFrame.Security.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\bin\Debug\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\bin\Debug\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.pdb

@@ -1,0 +1,4 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.BreadCrum.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.BreadCrum.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb

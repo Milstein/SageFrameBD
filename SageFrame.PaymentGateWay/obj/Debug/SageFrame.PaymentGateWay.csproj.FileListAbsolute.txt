@@ -1,0 +1,6 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Debug\SageFrame.PaymentGateWay.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Debug\SageFrame.PaymentGateWay.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Debug\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Debug\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb

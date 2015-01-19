@@ -1,0 +1,6 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\bin\Debug\SageFrame.OauthID.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\bin\Debug\SageFrame.OauthID.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\bin\Debug\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\bin\Debug\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb

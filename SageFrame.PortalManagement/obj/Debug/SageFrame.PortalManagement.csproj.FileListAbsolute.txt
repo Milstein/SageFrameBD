@@ -1,0 +1,4 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.PortalManagement.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.PortalManagement.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb

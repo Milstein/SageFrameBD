@@ -1,0 +1,5 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Templating.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Debug\SageFrame.Templating.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Debug\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Debug\SageFrame.Templating.pdb

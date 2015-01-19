@@ -1,0 +1,6 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Release\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Release\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.pdb

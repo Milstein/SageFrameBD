@@ -1,0 +1,4 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb

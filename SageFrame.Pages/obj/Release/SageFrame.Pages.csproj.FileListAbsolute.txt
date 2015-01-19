@@ -1,0 +1,6 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\bin\Release\SageFrame.Pages.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\bin\Release\SageFrame.Pages.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb

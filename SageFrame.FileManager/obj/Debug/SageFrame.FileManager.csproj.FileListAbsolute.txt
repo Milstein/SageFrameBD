@@ -1,0 +1,4 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.FileManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.FileManager.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb

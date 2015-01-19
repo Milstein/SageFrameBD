@@ -1,0 +1,8 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\bin\Release\SageFrame.FileManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\bin\Release\SageFrame.FileManager.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Release\SageFrame.FileManager.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Release\SageFrame.FileManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Release\SageFrame.FileManager.pdb

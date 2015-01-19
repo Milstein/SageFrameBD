@@ -1,0 +1,4 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\bin\Debug\SageFrame.Version.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\bin\Debug\SageFrame.Version.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\obj\Debug\SageFrame.Version.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\obj\Debug\SageFrame.Version.pdb

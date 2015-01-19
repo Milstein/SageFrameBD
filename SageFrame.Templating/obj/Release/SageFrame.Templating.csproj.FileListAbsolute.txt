@@ -1,0 +1,7 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Templating.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Release\SageFrame.Templating.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Release\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Release\SageFrame.Templating.pdb

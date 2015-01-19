@@ -1,0 +1,6 @@
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ModuleManager\bin\Debug\SageFrame.ModuleManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ModuleManager\bin\Debug\SageFrame.ModuleManager.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ModuleManager\bin\Debug\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ModuleManager\bin\Debug\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.pdb
