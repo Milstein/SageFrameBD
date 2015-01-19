@@ -4,3 +4,9 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Logo\bin\Release\SageFrame.Com
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Logo\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Logo\obj\Release\SageFrame.Logo.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Logo\obj\Release\SageFrame.Logo.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Logo\bin\Release\SageFrame.Logo.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Logo\bin\Release\SageFrame.Logo.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Logo\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Logo\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Logo\obj\Release\SageFrame.Logo.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Logo\obj\Release\SageFrame.Logo.pdb

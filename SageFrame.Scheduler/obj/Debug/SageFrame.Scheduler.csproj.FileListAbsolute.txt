@@ -2,3 +2,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Scheduler.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Scheduler.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Scheduler.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Scheduler.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb

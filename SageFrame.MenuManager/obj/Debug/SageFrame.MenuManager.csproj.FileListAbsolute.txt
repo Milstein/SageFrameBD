@@ -3,3 +3,8 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.MenuManager.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.MenuManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.MenuManager.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb

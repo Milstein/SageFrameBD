@@ -4,3 +4,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Common\obj\Debug\SageFrame.Com
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Common\obj\Debug\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Common.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Common\obj\Debug\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Common\obj\Debug\SageFrame.Common.pdb

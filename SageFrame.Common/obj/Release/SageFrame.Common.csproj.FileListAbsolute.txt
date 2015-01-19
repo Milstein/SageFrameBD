@@ -3,3 +3,8 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Common\bin\Release\SageFrame.C
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Common\obj\Release\SageFrame.Common.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Common\obj\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Common\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Common\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.pdb

@@ -4,3 +4,9 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SEOExtension\bin\Release\SageF
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\bin\Release\SageFrame.SEOExtension.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\bin\Release\SageFrame.SEOExtension.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb

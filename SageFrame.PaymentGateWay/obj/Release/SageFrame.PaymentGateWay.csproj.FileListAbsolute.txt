@@ -4,3 +4,9 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PaymentGateWay\bin\Release\Sag
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Release\SageFrame.PaymentGateWay.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Release\SageFrame.PaymentGateWay.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.pdb

@@ -2,3 +2,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.TaskToDo.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.TaskToDo.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.TaskToDo.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.TaskToDo.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.pdb

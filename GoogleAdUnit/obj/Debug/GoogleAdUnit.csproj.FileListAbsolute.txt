@@ -4,3 +4,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.
 D:\!@Localhost\!@F\SageFrameV3.5_Source\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SFE.GoogleAdUnit.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

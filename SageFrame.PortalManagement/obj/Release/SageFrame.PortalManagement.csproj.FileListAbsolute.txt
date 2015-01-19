@@ -4,3 +4,9 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PortalManagement\bin\Release\S
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PortalManagement\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\bin\Release\SageFrame.PortalManagement.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\bin\Release\SageFrame.PortalManagement.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.pdb

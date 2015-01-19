@@ -2,3 +2,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.IpAccess.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.IpAccess.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb

@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.OauthID\obj\Debug\SageFrame.Oa
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.OauthID.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.OauthID.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.OauthID.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.OauthID.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb

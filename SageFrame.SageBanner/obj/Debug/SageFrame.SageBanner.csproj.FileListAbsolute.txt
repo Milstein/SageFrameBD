@@ -2,3 +2,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.SageBanner.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.SageBanner.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb

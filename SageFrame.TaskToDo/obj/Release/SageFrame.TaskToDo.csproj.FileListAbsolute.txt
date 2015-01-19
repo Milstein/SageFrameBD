@@ -4,3 +4,9 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.TaskToDo\bin\Release\SageFrame
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb

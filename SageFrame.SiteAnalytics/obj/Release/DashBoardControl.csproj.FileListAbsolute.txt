@@ -4,3 +4,9 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SiteAnalytics\bin\Release\Sage
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb

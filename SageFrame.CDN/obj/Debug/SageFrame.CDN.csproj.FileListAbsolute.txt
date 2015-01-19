@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.CDN\obj\Debug\SageFrame.CDN.dl
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.CDN.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.CDN.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.CDN.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.CDN.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb

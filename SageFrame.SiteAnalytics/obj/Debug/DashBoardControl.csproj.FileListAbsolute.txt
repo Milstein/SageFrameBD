@@ -2,3 +2,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\DashBoardControl.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\DashBoardControl.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\DashBoardControl.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\DashBoardControl.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb

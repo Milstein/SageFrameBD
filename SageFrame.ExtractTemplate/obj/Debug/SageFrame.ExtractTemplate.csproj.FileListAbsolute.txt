@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\obj\Debug\Sage
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.ExtractTemplate.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb

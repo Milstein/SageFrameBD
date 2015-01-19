@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\obj\Debug\SageFrame.
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Dashboard.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb

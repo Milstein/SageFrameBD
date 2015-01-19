@@ -17,3 +17,8 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Upgrade\obj\Debug\SageFrame.Up
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Upgrade.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Upgrade.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Upgrade.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Upgrade.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.pdb

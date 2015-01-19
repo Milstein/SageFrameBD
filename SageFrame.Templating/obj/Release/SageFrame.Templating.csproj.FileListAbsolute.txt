@@ -5,3 +5,10 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Templating\bin\Release\SageFra
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Templating\obj\Release\SageFrame.Templating.csprojResolveAssemblyReference.cache
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Templating\obj\Release\SageFrame.Templating.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Templating\obj\Release\SageFrame.Templating.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Templating.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Release\SageFrame.Templating.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Release\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Release\SageFrame.Templating.pdb

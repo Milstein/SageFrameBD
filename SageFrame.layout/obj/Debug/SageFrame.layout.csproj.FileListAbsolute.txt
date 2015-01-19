@@ -88,3 +88,8 @@ D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.layout.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.layout.pdb
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.layout\obj\Debug\SageFrame.layout.dll
 D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.layout\obj\Debug\SageFrame.layout.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.layout.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.layout.pdb
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.layout\obj\Debug\SageFrame.layout.dll
+D:\!@Localhost\!@F\SageFrameBD\SageFrame.layout\obj\Debug\SageFrame.layout.pdb
