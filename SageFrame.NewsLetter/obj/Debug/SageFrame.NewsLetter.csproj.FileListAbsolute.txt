@@ -1,4 +1,4 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.NewsLetter.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.NewsLetter.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.NewsLetter.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.NewsLetter.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb

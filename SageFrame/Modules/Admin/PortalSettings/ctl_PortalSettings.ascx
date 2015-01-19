@@ -59,7 +59,7 @@
                                 </td>
                             </tr>
                         </table>
-                        <asp:Label ID="lblMetaHelpText" runat="server" CssClass="sfNote" meta:resourcekey="lblMetaHelpTextResource1">These Meta information are for the default value of page Meta tags. If site administrator leaves any of these Meta tags while adding and updating a page, then these Meta information will be overwritten for that Meta value of a page.</asp:Label>
+                        <asp:Label ID="lblMetaHelpText" runat="server" CssClass="sfNote" meta:resourcekey="lblMetaHelpTextResource1" Text="These Meta information are for the default value of page Meta tags. If site administrator leaves any of these Meta tags while adding and updating a page, then these Meta information will be overwritten for that Meta value of a page."></asp:Label>
                     </div>
                 </div>
             </div>
@@ -192,7 +192,7 @@
                                 </td>
                                 <td>
                                     <asp:CheckBox runat="server" ID="chkOpenID" CssClass="sfCheckbox" AutoPostBack="True"
-                                        OnCheckedChanged="chkOpenID_CheckedChanged" />
+                                        OnCheckedChanged="chkOpenID_CheckedChanged" meta:resourcekey="chkOpenIDResource1" />
                                 </td>
                             </tr>
                         </table>
@@ -800,10 +800,10 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <asp:Label runat="server" Text="PageExtension" ID="lblPageExtension" CssClass="sfFormlabel"></asp:Label>
+                                    <asp:Label runat="server" Text="PageExtension" ID="lblPageExtension" CssClass="sfFormlabel" meta:resourcekey="lblPageExtensionResource1"></asp:Label>
                                 </td>
                                 <td>
-                                    <asp:TextBox runat="server" ID="txtPageExtension" CssClass="sfInputbox"></asp:TextBox>
+                                    <asp:TextBox runat="server" ID="txtPageExtension" CssClass="sfInputbox" meta:resourcekey="txtPageExtensionResource1"></asp:TextBox>
                                 </td>
                                 <td>
                                     put dot(.) before Extension. For Eg, .aspx
@@ -811,7 +811,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <asp:Label runat="server" Text="Scheduler" ID="lblScheduler" CssClass="sfFormlabel"></asp:Label>
+                                    <asp:Label runat="server" Text="Scheduler" ID="lblScheduler" CssClass="sfFormlabel" meta:resourcekey="lblSchedulerResource1"></asp:Label>
                                 </td>
                                 <td>
                                     <asp:CheckBox runat="server" ID="txtScheduler" CssClass="sfCheckBox" />
@@ -822,15 +822,15 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <asp:Label runat="server" Text="User Agent" ID="Label8" CssClass="sfFormlabel"></asp:Label>
+                                    <asp:Label runat="server" Text="User Agent" ID="Label8" CssClass="sfFormlabel" meta:resourcekey="Label8Resource1"></asp:Label>
                                 </td>
                                 <td>   
                                 <i class="icon-pc"></i>                                 
-                                    <asp:RadioButton runat="server" ID="rdBtnPC" Text="PC" GroupName="userAgent" />
+                                    <asp:RadioButton runat="server" ID="rdBtnPC" Text="PC" GroupName="userAgent" meta:resourcekey="rdBtnPCResource1" />
                                     <i class="icon-handheld"></i>
-                                    <asp:RadioButton runat="server" ID="rdBtnMobile" Text="Mobile" GroupName="userAgent"/>
+                                    <asp:RadioButton runat="server" ID="rdBtnMobile" Text="Mobile" GroupName="userAgent" meta:resourcekey="rdBtnMobileResource1"/>
                                      <i class="icon-default"></i>
-                                    <asp:RadioButton runat="server" ID="rdBtnDefault" Text="Default" GroupName="userAgent"/>
+                                    <asp:RadioButton runat="server" ID="rdBtnDefault" Text="Default" GroupName="userAgent" meta:resourcekey="rdBtnDefaultResource1"/>
                                 </td>
                                 <td>
                                     Sets the user view of the site whether it's for a PC or a mobile use.
@@ -850,10 +850,10 @@
                             
                              <tr>
                                 <td>
-                                    <asp:Label runat="server" Text="Server Cookie Expiration" ID="lblCookieExpiration" CssClass="sfFormlabel"></asp:Label>
+                                    <asp:Label runat="server" Text="Server Cookie Expiration" ID="lblCookieExpiration" CssClass="sfFormlabel" meta:resourcekey="lblCookieExpirationResource1"></asp:Label>
                                 </td>
                                 <td>
-                                    <asp:TextBox runat="server" ID="txtServerCookieExpiration"></asp:TextBox>
+                                    <asp:TextBox runat="server" ID="txtServerCookieExpiration" meta:resourcekey="txtServerCookieExpirationResource1"></asp:TextBox>
                                 </td>
                                 <td>
                                     Set The Server Cookie expiration time in minute (better be greater than 5 min)

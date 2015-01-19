@@ -133,7 +133,7 @@
                             <ContentTemplate>
                                 <div class='sfAvailableModules'>
                                     <asp:ListBox ID="lbAvailableModules" runat="server" CssClass="sfListmenubig" SelectionMode="Multiple"
-                                        Height="200"></asp:ListBox>
+                                        Height="200px"></asp:ListBox>
                                 </div>
                                 <div class="sfSelectleftright sfSelectarrow">
                                         <label class="icon-arrow-slim-e">
@@ -143,7 +143,7 @@
                                 </div>
                                 <div class='sfSelectedModules'>
                                     <asp:ListBox ID="lbModulesList" CssClass="sfListmenubig" runat="server" SelectionMode="Multiple"
-                                        Height="200"></asp:ListBox>
+                                        Height="200px"></asp:ListBox>
                                     <asp:RequiredFieldValidator ID="rfvModulesList" runat="server" ControlToValidate="lbModulesList"
                                         ValidationGroup="vdgExtension" ErrorMessage="* Please choose items" SetFocusOnError="True"
                                         CssClass="sfError" meta:resourcekey="rfvModulesListResource1"></asp:RequiredFieldValidator>
@@ -164,7 +164,7 @@
         <asp:Button ID="imbCreate" runat="server" 
             meta:resourcekey="imbCreateResource1" OnClick="imbCreate_Click" ValidationGroup="vdgExtension" />Download Package</label>
        <label class="icon-close sfBtn">Cancel <asp:Button ID="btnCancelled" runat="server" AlternateText="Cancel" 
-             meta:resourcekey="btnCancelResource2" UseSubmitBehavior="false"
+             meta:resourcekey="btnCancelResource2" UseSubmitBehavior="False"
             OnClientClick="javascript:return window.location=CancelURL;" /></label>
     </div>
 </div>

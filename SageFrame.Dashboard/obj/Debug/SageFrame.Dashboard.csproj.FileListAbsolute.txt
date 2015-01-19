@@ -1,6 +1,8 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\bin\Debug\SageFrame.Dashboard.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\bin\Debug\SageFrame.Dashboard.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\bin\Debug\SageFrame.Common.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\bin\Debug\SageFrame.Common.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\bin\Debug\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\bin\Debug\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\bin\Debug\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\bin\Debug\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Dashboard.pdb

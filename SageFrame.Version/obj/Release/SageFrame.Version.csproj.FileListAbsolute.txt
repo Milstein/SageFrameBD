@@ -1,4 +1,4 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\bin\Release\SageFrame.Version.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\bin\Release\SageFrame.Version.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\obj\Release\SageFrame.Version.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Version\obj\Release\SageFrame.Version.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Version\bin\Release\SageFrame.Version.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Version\obj\Release\SageFrame.Version.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Version\obj\Release\SageFrame.Version.pdb

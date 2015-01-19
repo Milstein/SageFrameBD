@@ -1,4 +1,4 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Pages.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Pages.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\obj\Debug\SageFrame.Pages.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Pages\obj\Debug\SageFrame.Pages.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Pages.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Pages.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Pages\obj\Debug\SageFrame.Pages.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Pages\obj\Debug\SageFrame.Pages.pdb

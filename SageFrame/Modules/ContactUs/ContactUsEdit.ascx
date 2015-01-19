@@ -2,13 +2,13 @@
     Inherits="SageFrame.Modules.ContactUs.ContactUsEdit" %>
 <div class="sfFormwrapper">
     <div class="sfGridwrapper">
-        <asp:GridView runat="server" ID="gdvContacters" Width="100%" AutoGenerateColumns="false"
+        <asp:GridView runat="server" ID="gdvContacters" Width="100%" AutoGenerateColumns="False"
             AllowPaging="True" OnPageIndexChanging="gdvContacters_PageIndexChanging" OnRowCancelingEdit="gdvContacters_RowCancelingEdit"
             OnRowCommand="gdvContacters_RowCommand" OnRowDataBound="gdvContacters_RowDataBound"
             OnRowDeleting="gdvContacters_RowDeleting" OnRowEditing="gdvContacters_RowEditing"
             OnRowUpdating="gdvContacters_RowUpdating" EmptyDataText="...Contact Not  Found...">
             <Columns>
-                <asp:TemplateField HeaderText="S.N">
+                <asp:TemplateField HeaderText="S.No.">
                     <ItemTemplate>
                         <%#Container.DataItemIndex+1 %>
                     </ItemTemplate>

@@ -1,6 +1,6 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\bin\Release\SageFrame.Common.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb

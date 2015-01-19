@@ -1,7 +1,7 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\bin\Release\SageFrame.Common.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\bin\Release\SageFrame.Common.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.pdb

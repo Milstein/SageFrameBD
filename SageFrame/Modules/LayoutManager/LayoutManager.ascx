@@ -9,7 +9,7 @@
             Available Templates</h3>
         <div class="sftype1 sfCreatetemplate sfTableOption">
             <div class="sfUploadTemplate">
-                <asp:Label ID="lblUploadTemp" CssClass="sfFormlabel" runat="server">Upload Template</asp:Label>
+                <asp:Label ID="lblUploadTemp" CssClass="sfFormlabel" runat="server" Text="Upload Template"></asp:Label>
                 <asp:FileUpload ID="fupUploadTemp" runat="server" />
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Please Choose Template"
                  CssClass="sfUploadError"   ControlToValidate="fupUploadTemp" Display="Dynamic" ValidationGroup="rfvTemplate"></asp:RequiredFieldValidator>

@@ -34,7 +34,7 @@
 </div>
 <asp:HiddenField ID="hdnFileName" runat="server" />
 <div id="divModuleList" class="sfTemplate sfFormwrapper" runat="server">
-    <%--<div runat="server" id="progressBar" visible="false">
+    <%--<div runat="server" id="progressBar" visible="False">
         Please wait.
     </div>--%>
     <h3>
@@ -69,7 +69,7 @@
             </ItemTemplate>
             <FooterTemplate>
                 <asp:Label ID="lblEmptyData" CssClass="sfDefaultInfo" Text="No Modules To Display"
-                    runat="server" Visible="false">
+                    runat="server" Visible="False">
                 </asp:Label>
             </FooterTemplate>
         </asp:Repeater>
@@ -125,7 +125,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <asp:Label ID="lblLoadMessage" runat="server" CssClass="sfError" Visible="true" meta:resourcekey="lblLoadMessageResource1" />
+                            <asp:Label ID="lblLoadMessage" runat="server" CssClass="sfError" Visible="True" meta:resourcekey="lblLoadMessageResource1" />
                         </td>
                     </tr>
                 </table>
@@ -134,7 +134,7 @@
                 meta:resourcekey="Step1Resource1">
                 <asp:Label ID="lblWarningMessage" runat="server" CssClass="sfError" EnableViewState="False"
                     meta:resourcekey="lblWarningMessageResource1" />
-                <asp:Panel ID="pnlRepair" runat="server" Visible="true" meta:resourcekey="pnlRepairResource1">
+                <asp:Panel ID="pnlRepair" runat="server" Visible="True" meta:resourcekey="pnlRepairResource1">
                     <asp:Label ID="lblRepairInstallHelp" runat="server" Text="Repair Install the previous installed Module overwrite all database and files contents."
                         meta:resourcekey="lblRepairInstallHelpResource1" />
                     <asp:CheckBox ID="chkRepairInstall" runat="server" CssClass="sfCheckbox" meta:resourcekey="chkRepairInstallResource1" />
@@ -194,7 +194,7 @@
                         <table cellspacing="0" cellpadding="0" border="0" width="100%">
                             <tr>
                                 <td>
-                                    <asp:Panel ID="Panel1" runat="server" CssClass="" meta:resourcekey="Panel1Resource1">
+                                    <asp:Panel ID="Panel1" runat="server" meta:resourcekey="Panel1Resource1">
                                         <asp:Label ID="lblLicense" runat="server" Text="License:" meta:resourcekey="lblLicenseResource1"></asp:Label>
                                         <asp:Label ID="lblLicenseD" runat="server" Text="" meta:resourcekey="lblLicenseDResource1"></asp:Label>
                                     </asp:Panel>

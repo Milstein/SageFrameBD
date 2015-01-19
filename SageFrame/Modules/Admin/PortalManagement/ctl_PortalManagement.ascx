@@ -36,9 +36,8 @@
         <asp:Label ID="lblPortalManagement" runat="server" Text="Portal Management" meta:resourcekey="lblPortalManagementResource1"></asp:Label></h1>
     <asp:Panel ID="pnlPortal" runat="server" meta:resourcekey="pnlPortalResource1">
         <asp:HiddenField ID="hdnPortalID" runat="server" />
-        <ajax:TabContainer CssClass="tabcontainer ajax__tab_xp" ID="TabContainerManagePortal"
-            runat="server" ActiveTabIndex="0" meta:resourcekey="TabContainerManagePortalResource1"
-            Visible="true">
+        <ajax:TabContainer ID="TabContainerManagePortal" runat="server" ActiveTabIndex="0" meta:resourcekey="TabContainerManagePortalResource1"
+            Visible="True">
             <ajax:TabPanel ID="TabPanelPortalAddEdit" runat="server" meta:resourcekey="TabPanelPortalAddEditResource1">
                 <HeaderTemplate>
                     <asp:Label ID="lblAEP" runat="server" Text="Add/Edit Portal" meta:resourcekey="lblAEPResource1"></asp:Label>
@@ -95,7 +94,7 @@
                                             <asp:Label ID="lblAvailablePortal" runat="server" CssClass="sfFormlabel" Text="Available Parent Portal"></asp:Label>
                                         </td>
                                         <td id="Td8" runat="server">
-                                            <asp:DropDownList ID="ddlAvailablePortal" runat="server" AutoPostBack="true" OnSelectedIndexChanged="ddlAvailablePortal_SelectedIndexChanged">
+                                            <asp:DropDownList ID="ddlAvailablePortal" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlAvailablePortal_SelectedIndexChanged">
                                             </asp:DropDownList>
                                         </td>
                                     </tr>

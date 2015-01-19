@@ -476,7 +476,7 @@
                             </tr>
                             <tr runat="server">
                                 <td runat="server">
-                                    <asp:Label ID="lblResPhone" runat="server" CssClass="sfFormlabel" Text="Res. Phone:"></asp:Label>
+                                    <asp:Label ID="lblResPhone" runat="server" CssClass="sfFormlabel" Text="Resident Phone:"></asp:Label>
                                 </td>
                                 <td runat="server">
                                     <asp:TextBox ID="txtResPhone" runat="server" CssClass="sfInputbox"></asp:TextBox>
@@ -616,7 +616,7 @@
                                 </tr>
                                 <tr id="trViewResPhone" runat="server" class="sfEven">
                                     <td runat="server">
-                                        <asp:Label ID="Label30" runat="server" CssClass="sfFormlabel" Text="Res. Phone"></asp:Label>
+                                        <asp:Label ID="Label30" runat="server" CssClass="sfFormlabel" Text="Resident Phone"></asp:Label>
                                     </td>
                                     <td runat="server" colspan="2">
                                         <asp:Label ID="lblViewResPhone" runat="server" CssClass="sfInputbox"></asp:Label>
@@ -1086,10 +1086,10 @@
                 <td>
                     <asp:Panel ID="pnlPasswordEncTypes" runat="server" GroupingText="Password Storage Mode"
                         CssClass="sfPasswordstorage" meta:resourcekey="pnlPasswordEncTypesResource1"
-                        Visible="false">
+                        Visible="False">
                         <asp:RadioButtonList ID="rdbLst" runat="server" meta:resourcekey="rdbLstResource1">
-                            <asp:ListItem Value="2" meta:resourcekey="ListItemResource11">One Way Hashed</asp:ListItem>
-                            <asp:ListItem Value="3" meta:resourcekey="ListItemResource12">Encrypted</asp:ListItem>
+                            <asp:ListItem Value="2" meta:resourcekey="ListItemResource11" Text="One Way Hashed"></asp:ListItem>
+                            <asp:ListItem Value="3" meta:resourcekey="ListItemResource12" Text="Encrypted"></asp:ListItem>
                         </asp:RadioButtonList>
                     </asp:Panel>
                 </td>
@@ -1121,7 +1121,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportUserName" runat="server" CssClass="sfFormlabel">UserName</asp:Label>
+                    <asp:Label ID="lblImportUserName" runat="server" CssClass="sfFormlabel" Text="UserName"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1133,7 +1133,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportFirstName" runat="server" CssClass="sfFormlabel">First Name</asp:Label>
+                    <asp:Label ID="lblImportFirstName" runat="server" CssClass="sfFormlabel" Text="First Name"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1145,7 +1145,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportLastName" runat="server" CssClass="sfFormlabel">Last Name</asp:Label>
+                    <asp:Label ID="lblImportLastName" runat="server" CssClass="sfFormlabel" Text="Last Name"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1157,7 +1157,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportEmail" runat="server" CssClass="sfFormlabel">Email</asp:Label>
+                    <asp:Label ID="lblImportEmail" runat="server" CssClass="sfFormlabel" Text="Email"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1169,7 +1169,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPassword" runat="server" CssClass="sfFormlabel">Password</asp:Label>
+                    <asp:Label ID="lblImportPassword" runat="server" CssClass="sfFormlabel" Text="Password"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1181,19 +1181,19 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPasswordSalt" runat="server" CssClass="sfFormlabel">Password Salt</asp:Label>
+                    <asp:Label ID="lblImportPasswordSalt" runat="server" CssClass="sfFormlabel" Text="Password Salt"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportPasswordSalt" runat="server" CssClass="sfInputbox" Text="PasswordSalt"></asp:TextBox>
+                    <asp:TextBox ID="txtImportPasswordSalt" runat="server" CssClass="sfInputbox" Text="PasswordSalt" ></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportPasswordSaltRequired" runat="server" ControlToValidate="txtImportPasswordSalt"
                         Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPasswordFormat" runat="server" CssClass="sfFormlabel">Password Format</asp:Label>
+                    <asp:Label ID="lblImportPasswordFormat" runat="server" CssClass="sfFormlabel" Text="Password Format"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1205,7 +1205,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportRoleName" runat="server" CssClass="sfFormlabel">Role Name</asp:Label>
+                    <asp:Label ID="lblImportRoleName" runat="server" CssClass="sfFormlabel" Text="Role Name"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1217,7 +1217,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPortalID" runat="server" CssClass="sfFormlabel">PortalID</asp:Label>
+                    <asp:Label ID="lblImportPortalID" runat="server" CssClass="sfFormlabel" Text="PortalID"></asp:Label>
                 </td>
                 <td>:
                 </td>
@@ -1229,7 +1229,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportIsApproved" runat="server" CssClass="sfFormlabel">IsActive</asp:Label>
+                    <asp:Label ID="lblImportIsApproved" runat="server" CssClass="sfFormlabel" Text="IsActive"></asp:Label>
                 </td>
                 <td>:
                 </td>

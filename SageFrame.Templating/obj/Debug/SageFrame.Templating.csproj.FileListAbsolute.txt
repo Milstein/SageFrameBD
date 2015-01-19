@@ -1,5 +1,5 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Templating.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Templating.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Debug\SageFrame.Templating.csprojResolveAssemblyReference.cache
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Debug\SageFrame.Templating.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.Templating\obj\Debug\SageFrame.Templating.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.Templating.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Templating\obj\Debug\SageFrame.Templating.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Templating\obj\Debug\SageFrame.Templating.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.Templating\obj\Debug\SageFrame.Templating.pdb

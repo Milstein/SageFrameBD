@@ -1,4 +1,4 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.SEOExtension.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.SEOExtension.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.SEOExtension.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.SEOExtension.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb

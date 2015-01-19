@@ -11,7 +11,7 @@
         <div id="divViewWrapper" runat="server" class="cssClassViewWrraper">
             <div class="cssClassTopSetting" id="divEditContent" runat="server">                
             </div>
-            <asp:Literal ID="ltrContent" EnableViewState="false" runat="server"></asp:Literal>
+            <asp:Literal ID="ltrContent" EnableViewState="False" runat="server"></asp:Literal>
         </div>
         <div id="divEditWrapper" runat="server" class="cssClassEditWrapper">
             <div class="sfFormwrapper">
@@ -28,17 +28,17 @@
                                     <tr>
                                         <td>
                                            <CKEditor:CKEditorControl  ID="txtBody" runat="server"></CKEditor:CKEditorControl>
-                                            <asp:Label ID="lblError" runat="server" CssClass="sfError" Visible="false"
-                                                EnableViewState="false"></asp:Label>
+                                            <asp:Label ID="lblError" runat="server" CssClass="sfError" Visible="False"
+                                                EnableViewState="False"></asp:Label>
                                         </td>
                                     </tr>
                                 </table>
                             </div>
                             <div class="sfButtonwrapper" style="display:none">
-                                <asp:Button ID="btnCustomizeEditor" runat="server" CausesValidation="false" CssClass="cssClassButtonEditor"
+                                <asp:Button ID="btnCustomizeEditor" runat="server" CausesValidation="False" CssClass="cssClassButtonEditor"
                                     Text="Customize Editor" OnClick="btnCustomizeEditor_Click" />
-                                <asp:Button ID="btnDefault" runat="server" CausesValidation="false" CssClass="cssClassButtonEditor"
-                                    Text="Default Editor" OnClick="btnDefault_Click" Visible="false" />
+                                <asp:Button ID="btnDefault" runat="server" CausesValidation="False" CssClass="cssClassButtonEditor"
+                                    Text="Default Editor" OnClick="btnDefault_Click" Visible="False" />
                             </div>
                         </td>
                     </tr>
@@ -121,7 +121,7 @@
                         <td>                            
                         </td>
                         <td>
-                            <asp:Label ID="lblErrorMessage" runat="server" CssClass="sfError" EnableViewState="false"></asp:Label>                        
+                            <asp:Label ID="lblErrorMessage" runat="server" CssClass="sfError" EnableViewState="False"></asp:Label>                        
                         </td>
                     </tr>
                     <tr id="rowApprove" runat="server">
@@ -142,8 +142,7 @@
                     </tr>
                 </table>
                 <div class="sfButtonwrapper" style="display:none">
-                    <asp:ImageButton ID="imbAdd" runat="server" OnClick="imbAdd_Click" ValidationGroup="ValidateComment"
-                        CausesValidation="true" />
+                    <asp:ImageButton ID="imbAdd" runat="server" OnClick="imbAdd_Click" ValidationGroup="ValidateComment" CausesValidation="true" />
                     <asp:Label ID="lblAdd" runat="server" Text="Add" AssociatedControlID="imbAdd" CssClass="cssClassHtmlViewCursor"></asp:Label>
                     <asp:ImageButton ID="imbBack" runat="server" OnClick="imbBack_Click" />
                     <asp:Label ID="lblBack" runat="server" Text="Cancel" AssociatedControlID="imbBack" CssClass="cssClassHtmlViewCursor"></asp:Label>

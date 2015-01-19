@@ -1,4 +1,4 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.FileManager.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.FileManager.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.FileManager.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.FileManager.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb

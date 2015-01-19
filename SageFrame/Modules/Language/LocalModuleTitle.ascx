@@ -28,7 +28,7 @@
         runat="server" Width="100%" AutoGenerateColumns="False" OnSelectedIndexChanged="gdvLocalModuleTitle_SelectedIndexChanged"
         OnSelectedIndexChanging="gdvLocalModuleTitle_SelectedIndexChanging" OnPageIndexChanging="gdvLocalModuleTitle_PageIndexChanging">
         <Columns>
-            <asp:TemplateField HeaderText="S.N">
+            <asp:TemplateField HeaderText="S.No.">
                 <ItemTemplate>
                     <%#Container.DataItemIndex+1%>
                 </ItemTemplate>

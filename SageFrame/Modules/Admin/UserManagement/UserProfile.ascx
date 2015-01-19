@@ -183,7 +183,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <asp:Label ID="lblResPhone" runat="server" CssClass="sfFormlabel" Text="Res. Phone"
+                                <asp:Label ID="lblResPhone" runat="server" CssClass="sfFormlabel" Text="Resident Phone"
                                     meta:resourcekey="lblResPhoneResource1"></asp:Label>
                             </td>
                             <td>
@@ -360,7 +360,7 @@
                 </tr>
                 <tr id="trViewResPhone" runat="server">
                     <td>
-                        <asp:Label ID="Label10" runat="server" CssClass="sfFormlabel" Text="Res. Phone" meta:resourcekey="Label10Resource1"></asp:Label>
+                        <asp:Label ID="Label10" runat="server" CssClass="sfFormlabel" Text="Resident Phone" meta:resourcekey="Label10Resource1"></asp:Label>
                     </td>
                     <td colspan="2">
                         <asp:Label ID="lblViewResPhone" runat="server" meta:resourcekey="lblViewResPhoneResource1"></asp:Label>

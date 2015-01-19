@@ -233,7 +233,7 @@
                 <td>
                     <div class="sfAvailableModules">
                         <asp:ListBox ID="lbAvailableModules" runat="server" CssClass="sfListmenubig required"
-                            SelectionMode="Single" Height="200"></asp:ListBox>
+                            SelectionMode="Single" Height="200px"></asp:ListBox>
                     </div>
                     <div class='sfSelectedModules' style="display: none">
                         <asp:ListBox ID="lbModulesList" CssClass="sfListmenubig" runat="server" SelectionMode="Multiple"
@@ -314,7 +314,7 @@
                 <td width="30">:
                 </td>
                 <td id="Td6" runat="server">
-                    <asp:DropDownList runat="server" ID="ddlViewControlSrc" CssClass="sfListmenu" AutoPostBack="false" />
+                    <asp:DropDownList runat="server" ID="ddlViewControlSrc" CssClass="sfListmenu" AutoPostBack="False" />
                 </td>
             </tr>
             <tr>
@@ -414,7 +414,7 @@
                     <td width="30">:
                     </td>
                     <td id="Td14" runat="server">
-                        <asp:DropDownList ID="ddlEditControlSrc" runat="server" CssClass="sfListmenu" AutoPostBack="false" />
+                        <asp:DropDownList ID="ddlEditControlSrc" runat="server" CssClass="sfListmenu" AutoPostBack="False" />
                     </td>
                 </tr>
                 <tr>
@@ -512,7 +512,7 @@
                 <td width="30">:
                 </td>
                 <td id="Td22" runat="server">
-                    <asp:DropDownList ID="ddlSettingControlSrc" runat="server" AutoPostBack="false" CssClass="sfListmenu" />
+                    <asp:DropDownList ID="ddlSettingControlSrc" runat="server" AutoPostBack="False" CssClass="sfListmenu" />
                 </td>
             </tr>
             <tr>
@@ -609,7 +609,7 @@
                 meta:resourcekey="lblManifestPreviewResource1"></asp:Label>
         </p>
         <asp:ListBox runat="server" ID="lstAssembly" SelectionMode="Multiple" CssClass="sfListmenubig CheckDLL"
-            Height="300" Width="500"></asp:ListBox>
+            Height="300px" Width="500px"></asp:ListBox>
     </div>
 </div>
 <div id="div6" style="display: none">
@@ -617,7 +617,7 @@
         <div>
             <asp:Label ID="lblCreateManifest" runat="server" Text="Create Manifest:" CssClass="sfFormlabel"
                 meta:resourcekey="lblCreateManifestResource1"></asp:Label>
-            <asp:CheckBox ID="chkManifest" runat="server" Checked="true" />
+            <asp:CheckBox ID="chkManifest" runat="server" Checked="True" />
         </div>
         <div class="dnnFormItem" id="trManifest2" runat="server">
             <asp:Label ID="lblManifestName" runat="server" Text="Manifest File Name:" CssClass="sfFormlabel"
@@ -627,7 +627,7 @@
         <div class="dnnFormItem">
             <asp:Label ID="lblCreatePackage" runat="server" Text="Create Package:" CssClass="sfFormlabel"
                 meta:resourcekey="lblCreatePackageResource1"></asp:Label>
-            <asp:CheckBox ID="chkPackage" runat="server" Checked="true" />
+            <asp:CheckBox ID="chkPackage" runat="server" Checked="True" />
         </div>
         <div class="dnnFormItem">
             <asp:Label ID="lblPackageName" runat="server" Text="Package Zip Name:" CssClass="sfFormlabel"
@@ -644,8 +644,8 @@
         CommandName="Next" CssClass="sfBtn" Text="Next" meta:resourcekey="btnNextResource1"
         OnClick="btnSubmit_Click" />
     <asp:Button ID="btnCancelled" runat="server" AlternateText="Cancel" CssClass="sfBtn"
-        Text="Cancel" meta:resourcekey="btnCancelResource2" UseSubmitBehavior="false"
+        Text="Cancel" meta:resourcekey="btnCancelResource2" UseSubmitBehavior="False"
         OnClientClick="javascript:return window.location=sageRootPah+'Admin/Modules.aspx';" />
 </div>
 <asp:Button ID="btnBack" runat="server" AlternateText="Back" CssClass="sfBtn" Text="Back"
-    CausesValidation="False" UseSubmitBehavior="false" OnClick="btnBack_Click" />
+    CausesValidation="False" UseSubmitBehavior="False" OnClick="btnBack_Click" />

@@ -1,6 +1,8 @@
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Debug\SageFrame.ExtractTemplate.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Debug\SageFrame.ExtractTemplate.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Debug\SageFrame.Common.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\bin\Debug\SageFrame.Common.pdb
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
-D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\bin\Debug\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\bin\Debug\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\bin\Debug\SageFrame.Common.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\bin\Debug\SageFrame.Common.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\SageFrame\bin\SageFrame.ExtractTemplate.pdb

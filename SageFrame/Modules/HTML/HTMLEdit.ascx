@@ -11,7 +11,7 @@
         <div id="divViewWrapper" runat="server" class="cssClassViewWrraper">
             <div class="cssClassTopSetting" id="divEditContent" runat="server">
             </div>
-            <asp:Literal ID="ltrContent" EnableViewState="false" runat="server"></asp:Literal>
+            <asp:Literal ID="ltrContent" EnableViewState="False" runat="server"></asp:Literal>
         </div>
         <div id="divEditWrapper" runat="server" class="cssClassEditWrapper">
             <div class="sfFormwrapper">
@@ -24,7 +24,7 @@
                                       <tr>
                                         <td class="editorheading">
                                           <asp:Label ID="Label1" runat="server" CssClass="sfFormlabel" Text="Country:" /> &nbsp;<asp:DropDownList 
-                                                ID="ddlLanuage" runat="server" DataTextField="LanguageName"  AutoPostBack="true"
+                                                ID="ddlLanuage" runat="server" DataTextField="LanguageName"  AutoPostBack="True"
                                                 DataValueField="LanguageCode" 
                                                 onselectedindexchanged="ddlLanuage_SelectedIndexChanged" 
                                                 >

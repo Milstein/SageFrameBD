@@ -1,5 +1,5 @@
-D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.dll
-D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
-D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Release\GoogleAdUnit.csprojResolveAssemblyReference.cache
-D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
-D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\SageFrameV3.5_Source\GoogleAdUnit\obj\Release\GoogleAdUnit.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\SageFrameV3.5_Source\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\SageFrameV3.5_Source\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb
