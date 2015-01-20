@@ -8,3 +8,8 @@ D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
 D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Release\GoogleAdUnit.csprojResolveAssemblyReference.cache
 D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
 D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\obj\Release\GoogleAdUnit.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb

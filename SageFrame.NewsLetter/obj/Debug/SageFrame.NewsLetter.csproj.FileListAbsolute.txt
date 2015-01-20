@@ -7,3 +7,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.NewsLetter.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.NewsLetter.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.NewsLetter.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb

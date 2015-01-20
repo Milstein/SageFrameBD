@@ -10,3 +10,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.CDN.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.CDN.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.CDN.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.CDN.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb

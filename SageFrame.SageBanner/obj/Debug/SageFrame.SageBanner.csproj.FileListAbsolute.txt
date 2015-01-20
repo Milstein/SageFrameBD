@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb

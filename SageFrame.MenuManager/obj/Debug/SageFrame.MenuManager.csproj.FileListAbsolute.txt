@@ -8,3 +8,8 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.MenuManager.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.MenuManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.MenuManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb

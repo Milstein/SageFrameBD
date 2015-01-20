@@ -10,3 +10,9 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.Common.d
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb

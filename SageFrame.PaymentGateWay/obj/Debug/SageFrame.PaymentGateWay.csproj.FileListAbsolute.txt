@@ -10,3 +10,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.PaymentGateWay.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.PaymentGateWay.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.PaymentGateWay.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.PaymentGateWay.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb

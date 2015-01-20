@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb

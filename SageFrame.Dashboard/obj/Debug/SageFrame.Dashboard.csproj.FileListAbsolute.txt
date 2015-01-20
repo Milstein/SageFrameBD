@@ -10,3 +10,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Dashboard.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Dashboard.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb

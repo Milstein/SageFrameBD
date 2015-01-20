@@ -10,3 +10,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.ExtractTemplate.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.ExtractTemplate.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.ExtractTemplate.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.ExtractTemplate.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb

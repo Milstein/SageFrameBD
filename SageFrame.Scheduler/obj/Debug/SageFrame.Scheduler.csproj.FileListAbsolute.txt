@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Scheduler.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Scheduler.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Scheduler.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Scheduler.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb

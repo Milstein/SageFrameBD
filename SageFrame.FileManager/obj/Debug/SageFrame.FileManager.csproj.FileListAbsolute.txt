@@ -7,3 +7,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.FileManager.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.csprojResolveAssemblyReference.cache
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.FileManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.FileManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb

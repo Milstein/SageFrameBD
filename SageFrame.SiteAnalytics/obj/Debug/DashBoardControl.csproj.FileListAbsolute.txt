@@ -6,3 +6,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\DashBoardControl.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\DashBoardControl.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\DashBoardControl.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\DashBoardControl.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb

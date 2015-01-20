@@ -8,3 +8,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.pdb
 D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
 D:\!@Localhost\!@F\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

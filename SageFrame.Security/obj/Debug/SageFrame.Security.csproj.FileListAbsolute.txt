@@ -10,3 +10,7 @@ D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Security.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame\bin\SageFrame.Security.pdb
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.dll
 D:\!@Localhost\!@F\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Security.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Security.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.pdb
