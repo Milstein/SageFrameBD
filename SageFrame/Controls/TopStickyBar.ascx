@@ -96,8 +96,8 @@
     <ul class="left">
         <li>
             <div class="sfLogo">
-                <asp:HyperLink ID="hypLogo" runat="server">Dashboard</asp:HyperLink>
-                <asp:Label runat="server" ID="lblVersion"></asp:Label>
+                <asp:HyperLink ID="hypLogo" runat="server" meta:resourcekey="hypLogoResource1" Text="Dashboard"></asp:HyperLink>
+                <asp:Label runat="server" ID="lblVersion" meta:resourcekey="lblVersionResource1"></asp:Label>
             </div>
         </li>
     </ul>
@@ -156,7 +156,7 @@
     </div>
     <ul class="right">
         <li class="sfDashBoard">
-            <asp:HyperLink ID="hlnkDashboard" CssClass="icon-dashboard" runat="server" meta:resourcekey="hlnkDashboardResource1">Dashboard</asp:HyperLink>
+            <asp:HyperLink ID="hlnkDashboard" CssClass="icon-dashboard" runat="server" meta:resourcekey="hlnkDashboardResource1" Text="Dashboard"></asp:HyperLink>
         </li>
         <li class="loggedin"><span class="icon-user">
             <asp:Literal ID="litUserName" runat="server" Text="Logged As" meta:resourcekey="litUserNameResource1">
