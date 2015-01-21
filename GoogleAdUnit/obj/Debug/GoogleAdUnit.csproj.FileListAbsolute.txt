@@ -12,3 +12,7 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SFE.GoogleAdU
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

@@ -16,3 +16,9 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\bin\Rele
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\bin\Release\SageFrame.Common.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\obj\Release\SageFrame.Security.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\obj\Release\SageFrame.Security.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\bin\Release\SageFrame.Security.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\bin\Release\SageFrame.Security.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\obj\Release\SageFrame.Security.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\obj\Release\SageFrame.Security.pdb

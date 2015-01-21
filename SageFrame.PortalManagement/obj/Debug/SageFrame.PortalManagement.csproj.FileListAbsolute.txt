@@ -10,3 +10,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Por
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.PortalManagement.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.PortalManagement.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.PortalManagement.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.csprojResolveAssemblyReference.cache

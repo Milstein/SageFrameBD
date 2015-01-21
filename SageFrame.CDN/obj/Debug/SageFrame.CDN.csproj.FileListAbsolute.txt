@@ -14,3 +14,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.CDN
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.CDN.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.CDN.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.CDN.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.CDN\obj\Debug\SageFrame.CDN.csprojResolveAssemblyReference.cache

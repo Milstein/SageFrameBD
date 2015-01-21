@@ -10,3 +10,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.IpA
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.csprojResolveAssemblyReference.cache

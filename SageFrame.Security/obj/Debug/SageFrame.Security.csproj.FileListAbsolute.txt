@@ -14,3 +14,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Sec
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Security.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.Security.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.Security.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Security\obj\Debug\SageFrame.Security.csprojResolveAssemblyReference.cache

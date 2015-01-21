@@ -13,3 +13,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Common\bin\Releas
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Common\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Common\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.Common\obj\Release\SageFrame.Common.pdb

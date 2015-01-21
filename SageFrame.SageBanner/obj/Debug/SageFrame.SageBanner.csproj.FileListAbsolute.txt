@@ -10,3 +10,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.Sag
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\SageFrame.SageBanner.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.csprojResolveAssemblyReference.cache

@@ -13,3 +13,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame\bin\ContactUs.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ContactUs\obj\Debug\ContactUs.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ContactUs\obj\Debug\ContactUs.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\ContactUs.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame\bin\ContactUs.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ContactUs\obj\Debug\ContactUs.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ContactUs\obj\Debug\ContactUs.pdb

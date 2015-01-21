@@ -16,3 +16,9 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ModuleManager\bin
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ModuleManager\bin\Release\SageFrame.Common.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameBD\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ModuleManager\bin\Release\SageFrame.ModuleManager.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ModuleManager\bin\Release\SageFrame.ModuleManager.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ModuleManager\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ModuleManager\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameBD\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.pdb
